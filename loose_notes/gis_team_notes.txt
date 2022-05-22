@@ -1,0 +1,24 @@
+FREE ACCOUNT WORKFLOW
+
+https://www.arcgis.com/home/index.html
+--> Then click on "map"
+--> then load geojson objects using the "add+" button in the upper left (above the tray)
+++then you can customize and save.
+
+--> from there, storymaps.arcgis.com, 
+--> new story (maybe from scratch)
+--> then in a content block click on "add --> map" and you should see the map you saved made available under the "my maps" tab
+
+Ibrahim will be remote most of the time they're here, but they can
+* contact him via email
+* or, after they fill out the "first time patrons" form on the library's gis page
+* and then they can go & see his calendar on the "returning patrons" page
+
+ricegis.maps.argcis.com
+
+We could push the maps to a Rice GIS account as public objects
+Each user has 100 credits
+If you run out of credits you can get re-upped
+And it's possible that this use case wouldn't use any
+
+This appears to be the pythonic geojson --> gis layer creation method: https://developers.arcgis.com/python/api-reference/arcgis.mapping.ogc.html#geojsonlayer
