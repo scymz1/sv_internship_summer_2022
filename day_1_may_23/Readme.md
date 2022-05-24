@@ -44,3 +44,9 @@
 		1. Have everyone install [Postman](https://www.postman.com/) & set it up
 		1. Have everyone launch a python virtual environment
 		1. Using Python and Postman, reproduce all the queries in the [API documentation](https://github.com/rice-crc/voyages-api)
+
+
+Recordings:
+
+* [Morning](https://riceuniversity.zoom.us/rec/share/b7BlYPZHwaqJq_ZFSSNpllfk-ufzQLr0jPxPiJilPU1rzhbKLXDPLlkO3PTnx0tv.PJSMiNkjKLZb8bAy)
+* [Afternoon](https://riceuniversity.zoom.us/rec/share/uiKeOWq4ml8__BdW0hE1a_TzJDitRUS-7EQpC4dVzHgFCm8c2himlMkSYiD2TEN4.mSZKBOsA_0o5IEVJ)
