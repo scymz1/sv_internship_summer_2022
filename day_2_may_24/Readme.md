@@ -17,3 +17,8 @@
 ## Late afternoon
 
 * Move on to [John's Plotly apps](https://github.com/JohnMulligan/voyages_plotly_2022)
+
+## Changes:
+
+* Students ended up identifying weaknesses in the remote server's error handling
+* In order to give them the liberty to restart their systems, we had them install the Voyages API Docker build on their own systems
