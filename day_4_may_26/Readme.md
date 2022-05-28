@@ -2,10 +2,9 @@
 
 ### Morning: presentations of their findings on the different interfaces
 
-	* Reading and experimenting with the code in the plotly repo
-	* Focusing on component generation (especially autocomplete functionality, which Alison appears to have dived into)
-	* Building a single-page app from scratch (provided an [example](https://github.com/JohnMulligan/voyages_plotly_2022/blob/de319cc9136eeb094c82ed704249d3f321f74a67/example.py))
-	* Deploy as standalone to Heroku
+* Reading and experimenting with the code in the plotly repo
+* Focusing on component generation (especially autocomplete functionality, which Alison appears to have dived into)
+* Building a single-page app from scratch (provided an [example](https://github.com/JohnMulligan/voyages_plotly_2022/blob/de319cc9136eeb094c82ed704249d3f321f74a67/example.py))
 
 ### Afternoon: Dr. Domingues presents on the history of the project
 
