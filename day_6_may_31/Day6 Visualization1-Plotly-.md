@@ -39,8 +39,13 @@ npm install react-plotly.js plotly.js
 For the examples(Bar charts, Pie charts, Filled-area-plots)
 
 [Bar charts](https://plotly.com/javascript/bar-charts/)
+<br>
 [Pie charts](https://plotly.com/javascript/pie-charts/)
+<br>
 [Filled-area-plots](https://plotly.com/javascript/filled-area-plots/)
+
+![charts](plotly%20charts.png)
+
 
 
 ### Do I want it?
@@ -59,3 +64,4 @@ it is the `CORS` proble:
 
 ### Upcoming Task List:
     1. Transform the Dash Core Components to React useable components
+
