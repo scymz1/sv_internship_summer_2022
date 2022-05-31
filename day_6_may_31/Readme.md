@@ -22,18 +22,22 @@ Effectively, in our examination of already existing react code, we drew a basic 
 
 I want us to form teams to explore a few different paths we can take:
 
-* Plotly (Zhihao & Jiran)
-	* For interactive graphing
-	* For toolbar/dashboard components
-* Bootstrap
-* MUI
-* umi
-* Axios
-* Prime Faces
-* D3.js
-	* interactive visualizations
-	* see observable.com for some of their toolbar components
-* Others?
+
+
+* Visualization
+	* Plotly (Zhihao & Jiran)
+		* For interactive graphing
+		* For toolbar/dashboard components
+	* D3.js
+		* interactive visualizations
+		* see observable.com for some of their toolbar components
+* Non-viz UI
+	* Bootstrap (Lize & Minghao)
+	* MUI (Alison & Gaoyuan)
+	* umi (Haoyu)
+	* Prime Faces (Zewen & Jiacheng)
+* Requests
+	* Axios (Jiasheng)
 
 Here are the components we need:
 
