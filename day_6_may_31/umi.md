@@ -10,13 +10,15 @@ It enables various components within the functionality of antd.
 (Reference: https://ant.design/docs/react/introduce)
 
 ### How can we use it?
-Create umi project:
+**Create umi project:**
 (Reference: https://v2.umijs.org/guide/create-umi-app.html#create-umi-project)
+```javascript
 	npm create-umi myapp
 	cd my app
 	npm install
 	npm start
-Components:
+```
+**Components:**
 	Slider:
 		https://ant.design/components/slider/
 	DropDown:
