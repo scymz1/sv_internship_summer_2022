@@ -33,7 +33,7 @@ yarn install plotly.js-dist
 
 **Plotly-React**
 ```javaScript
-$ npm install react-plotly.js plotly.js
+npm install react-plotly.js plotly.js
 ```
 
 For the examples(Bar charts, Pie charts, Filled-area-plots)
@@ -47,7 +47,7 @@ For the examples(Bar charts, Pie charts, Filled-area-plots)
 Yes, but we still need to figure out one issue, which we still could not get the `Voyages` API data (This issue is same as Jason's `Request`) 
 
 it is the `CORS` proble: 
-![cors](CORS%20problem.png)
+![cors](CORS%20problem.jpeg)
 
 
 ### Shrtcoming (What we fail to finish right now):
