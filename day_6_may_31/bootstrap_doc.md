@@ -19,6 +19,6 @@ This is the documentations of summary about react-bootstrap by team Lize & Mingh
   * There is no embedded slider components available to be used.
 
 * How can we use it?
-  * The react-bootstrap could be an optional but not optimal candicates for our current web development of slave voyage but it shoud be better if we could use react-bootstrap for part of our development since it should be simple to use.
+  * The react-bootstrap could be an optional but not optimal candicates for our current web development of slave voyage but it shoud be better if we could use react-bootstrap for part of our development since react-bootstrap has simple and clean format which is easy to use.
 
 
