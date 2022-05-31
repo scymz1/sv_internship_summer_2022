@@ -14,7 +14,7 @@ It enables various components within the functionality of antd.
 [Reference](https://v2.umijs.org/guide/create-umi-app.html#create-umi-project)
 ```javascript
 	npm create-umi myapp
-	cd my app
+	cd myapp
 	npm install
 	npm start
 ```
