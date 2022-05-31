@@ -22,13 +22,18 @@ Effectively, in our examination of already existing react code, we drew a basic 
 
 I want us to form teams to explore a few different paths we can take:
 
-* We adopt Xinna's frameworks, like umi.js and axios
-* We use a different framework
-	* Material UI
-	* Prime Faces
-* We adopt plotly's dash components
-* Using any of the above, we iterate on them and create our own components (for example, customizing plotly/dash rangesliders)
-* others options?
+* Plotly (Zhihao & Jiran)
+	* For interactive graphing
+	* For toolbar/dashboard components
+* Bootstrap
+* MUI
+* umi
+* Axios
+* Prime Faces
+* D3.js
+	* interactive visualizations
+	* see observable.com for some of their toolbar components
+* Others?
 
 Here are the components we need:
 
